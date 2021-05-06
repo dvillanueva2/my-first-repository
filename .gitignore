@@ -2,3 +2,7 @@
 # in your git repository
 
 *.zip
+
+# Ignore these folders
+bin/
+obj/

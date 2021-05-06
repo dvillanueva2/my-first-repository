@@ -12,3 +12,5 @@ We can use git version control application directly from the command line. Here 
 There are a lot of things to learn when it comes to working with git, but these commands are the day-to-day ones that you will do as you work with version control.
 
 > **TIP:** You should make frequent, small commits when working on your projects.
+
+> Work with these commands every day, and they will become a part of you (like the force Luke).
